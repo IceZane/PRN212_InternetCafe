@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\vinhn\\Downloads\\PRN212_InternetCafe-main\\PRN212_InternetCafe-main\\NetManagement\\",
   "Documents": [
     {
@@ -84,6 +85,37 @@
     {
       "AbsoluteMoniker": "D:0:0:{A8847735-0720-4BF4-ABBD-EA3EAB1F0AAC}|BLL\\BLL.csproj|c:\\users\\vinhn\\downloads\\prn212_internetcafe-main\\prn212_internetcafe-main\\netmanagement\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8847735-0720-4BF4-ABBD-EA3EAB1F0AAC}|BLL\\BLL.csproj|solutionrelative:bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+  "WorkspaceRootPath": "E:\\C# project\\New Project\\NetManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0BDB88-55B7-4619-B6AD-2390F4862C06}|NetManagement\\NetManagement.csproj|e:\\c# project\\new project\\netmanagement\\netmanagement\\detailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6C0BDB88-55B7-4619-B6AD-2390F4862C06}|NetManagement\\NetManagement.csproj|solutionrelative:netmanagement\\detailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0BDB88-55B7-4619-B6AD-2390F4862C06}|NetManagement\\NetManagement.csproj|e:\\c# project\\new project\\netmanagement\\netmanagement\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6C0BDB88-55B7-4619-B6AD-2390F4862C06}|NetManagement\\NetManagement.csproj|solutionrelative:netmanagement\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0BDB88-55B7-4619-B6AD-2390F4862C06}|NetManagement\\NetManagement.csproj|e:\\c# project\\new project\\netmanagement\\netmanagement\\netmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6C0BDB88-55B7-4619-B6AD-2390F4862C06}|NetManagement\\NetManagement.csproj|solutionrelative:netmanagement\\netmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A82F5F-BA2B-4677-B91C-28D09BEDF874}|DAL\\DAL.csproj|e:\\c# project\\new project\\netmanagement\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60A82F5F-BA2B-4677-B91C-28D09BEDF874}|DAL\\DAL.csproj|solutionrelative:dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8847735-0720-4BF4-ABBD-EA3EAB1F0AAC}|BLL\\BLL.csproj|e:\\c# project\\new project\\netmanagement\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8847735-0720-4BF4-ABBD-EA3EAB1F0AAC}|BLL\\BLL.csproj|solutionrelative:bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0BDB88-55B7-4619-B6AD-2390F4862C06}|NetManagement\\NetManagement.csproj|e:\\c# project\\new project\\netmanagement\\netmanagement\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6C0BDB88-55B7-4619-B6AD-2390F4862C06}|NetManagement\\NetManagement.csproj|solutionrelative:netmanagement\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0BDB88-55B7-4619-B6AD-2390F4862C06}|NetManagement\\NetManagement.csproj|e:\\c# project\\new project\\netmanagement\\netmanagement\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0BDB88-55B7-4619-B6AD-2390F4862C06}|NetManagement\\NetManagement.csproj|solutionrelative:netmanagement\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> 239f428882aad7dfed972506174d8ec2d52f7e91
     }
   ],
   "DocumentGroupContainers": [
@@ -93,6 +125,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 5,
           "Children": [
             {
@@ -107,12 +140,44 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-12T08:05:50.391Z",
               "IsPinned": true,
+=======
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NetManagement",
+              "DocumentMoniker": "E:\\C# project\\New Project\\NetManagement\\NetManagement\\NetManagement.csproj",
+              "RelativeDocumentMoniker": "NetManagement\\NetManagement.csproj",
+              "ToolTip": "E:\\C# project\\New Project\\NetManagement\\NetManagement\\NetManagement.csproj*",
+              "RelativeToolTip": "NetManagement\\NetManagement.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-12T02:12:25.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DetailWindow.xaml",
+              "DocumentMoniker": "E:\\C# project\\New Project\\NetManagement\\NetManagement\\DetailWindow.xaml",
+              "RelativeDocumentMoniker": "NetManagement\\DetailWindow.xaml",
+              "ToolTip": "E:\\C# project\\New Project\\NetManagement\\NetManagement\\DetailWindow.xaml",
+              "RelativeToolTip": "NetManagement\\DetailWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-12T02:12:58.689Z",
+>>>>>>> 239f428882aad7dfed972506174d8ec2d52f7e91
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "LoginWindow.xaml",
+<<<<<<< HEAD
               "DocumentMoniker": "C:\\Users\\vinhn\\Downloads\\PRN212_InternetCafe-main\\PRN212_InternetCafe-main\\NetManagement\\NetManagement\\LoginWindow.xaml",
               "RelativeDocumentMoniker": "NetManagement\\LoginWindow.xaml",
               "ToolTip": "C:\\Users\\vinhn\\Downloads\\PRN212_InternetCafe-main\\PRN212_InternetCafe-main\\NetManagement\\NetManagement\\LoginWindow.xaml",
@@ -144,15 +209,56 @@
               "RelativeToolTip": "NetManagement\\ComputerManagement.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-11-12T09:33:46.977Z",
+=======
+              "DocumentMoniker": "E:\\C# project\\New Project\\NetManagement\\NetManagement\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "NetManagement\\LoginWindow.xaml",
+              "ToolTip": "E:\\C# project\\New Project\\NetManagement\\NetManagement\\LoginWindow.xaml",
+              "RelativeToolTip": "NetManagement\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-12T02:12:45.202Z",
+>>>>>>> 239f428882aad7dfed972506174d8ec2d52f7e91
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+<<<<<<< HEAD
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\vinhn\\Downloads\\PRN212_InternetCafe-main\\PRN212_InternetCafe-main\\NetManagement\\NetManagement\\MainWindow.xaml",
               "RelativeDocumentMoniker": "NetManagement\\MainWindow.xaml",
               "ToolTip": "C:\\Users\\vinhn\\Downloads\\PRN212_InternetCafe-main\\PRN212_InternetCafe-main\\NetManagement\\NetManagement\\MainWindow.xaml",
+=======
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\C# project\\New Project\\NetManagement\\DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "DAL\\Class1.cs",
+              "ToolTip": "E:\\C# project\\New Project\\NetManagement\\DAL\\Class1.cs",
+              "RelativeToolTip": "DAL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T02:12:19.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\C# project\\New Project\\NetManagement\\BLL\\Class1.cs",
+              "RelativeDocumentMoniker": "BLL\\Class1.cs",
+              "ToolTip": "E:\\C# project\\New Project\\NetManagement\\BLL\\Class1.cs",
+              "RelativeToolTip": "BLL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T02:11:54.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\C# project\\New Project\\NetManagement\\NetManagement\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "NetManagement\\MainWindow.xaml",
+              "ToolTip": "E:\\C# project\\New Project\\NetManagement\\NetManagement\\MainWindow.xaml",
+>>>>>>> 239f428882aad7dfed972506174d8ec2d52f7e91
               "RelativeToolTip": "NetManagement\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-11-12T02:05:24.698Z",
@@ -160,6 +266,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 0,
               "Title": "NetManagement.csproj",
               "DocumentMoniker": "C:\\Users\\vinhn\\Downloads\\PRN212_InternetCafe-main\\PRN212_InternetCafe-main\\NetManagement\\NetManagement\\NetManagement.csproj",
@@ -360,6 +467,18 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-12T02:11:54.459Z",
               "EditorCaption": ""
+=======
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\C# project\\New Project\\NetManagement\\NetManagement\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "NetManagement\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\C# project\\New Project\\NetManagement\\NetManagement\\MainWindow.xaml.cs",
+              "RelativeToolTip": "NetManagement\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T02:05:21.134Z",
+              "EditorCaption": ""
+>>>>>>> 239f428882aad7dfed972506174d8ec2d52f7e91
             }
           ]
         }

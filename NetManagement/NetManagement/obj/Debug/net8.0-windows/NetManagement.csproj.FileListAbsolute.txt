@@ -154,6 +154,7 @@ E:\C# project\New Project\NetManagement\NetManagement\bin\Debug\net8.0-windows\r
 E:\C# project\New Project\NetManagement\NetManagement\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 E:\C# project\New Project\NetManagement\NetManagement\obj\Debug\net8.0-windows\NetManagement.csproj.AssemblyReference.cache
 E:\C# project\New Project\NetManagement\NetManagement\obj\Debug\net8.0-windows\NetManag.2C3053B4.Up2Date
+<<<<<<< HEAD
 C:\Users\vinhn\Downloads\PRN212_InternetCafe-main\PRN212_InternetCafe-main\NetManagement\NetManagement\obj\Debug\net8.0-windows\NetManagement.csproj.AssemblyReference.cache
 C:\Users\vinhn\Downloads\PRN212_InternetCafe-main\PRN212_InternetCafe-main\NetManagement\NetManagement\obj\Debug\net8.0-windows\DetailWindow.g.cs
 C:\Users\vinhn\Downloads\PRN212_InternetCafe-main\PRN212_InternetCafe-main\NetManagement\NetManagement\obj\Debug\net8.0-windows\LoginWindow.g.cs
@@ -236,3 +237,5 @@ C:\Users\vinhn\Downloads\PRN212_InternetCafe-main\PRN212_InternetCafe-main\NetMa
 C:\Users\vinhn\Downloads\PRN212_InternetCafe-main\PRN212_InternetCafe-main\NetManagement\NetManagement\obj\Debug\net8.0-windows\ref\NetManagement.dll
 C:\Users\vinhn\Downloads\PRN212_InternetCafe-main\PRN212_InternetCafe-main\NetManagement\NetManagement\obj\Debug\net8.0-windows\ComputerManagement.g.cs
 C:\Users\vinhn\Downloads\PRN212_InternetCafe-main\PRN212_InternetCafe-main\NetManagement\NetManagement\obj\Debug\net8.0-windows\ComputerManagement.baml
+=======
+>>>>>>> 239f428882aad7dfed972506174d8ec2d52f7e91

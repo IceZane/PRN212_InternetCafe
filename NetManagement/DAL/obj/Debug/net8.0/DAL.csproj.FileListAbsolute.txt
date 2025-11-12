@@ -12,6 +12,7 @@ E:\C# project\New Project\NetManagement\DAL\obj\Debug\net8.0\refint\DAL.dll
 E:\C# project\New Project\NetManagement\DAL\obj\Debug\net8.0\DAL.pdb
 E:\C# project\New Project\NetManagement\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
 E:\C# project\New Project\NetManagement\DAL\obj\Debug\net8.0\ref\DAL.dll
+<<<<<<< HEAD
 C:\Users\vinhn\Downloads\PRN212_InternetCafe-main\PRN212_InternetCafe-main\NetManagement\DAL\bin\Debug\net8.0\DAL.deps.json
 C:\Users\vinhn\Downloads\PRN212_InternetCafe-main\PRN212_InternetCafe-main\NetManagement\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
 C:\Users\vinhn\Downloads\PRN212_InternetCafe-main\PRN212_InternetCafe-main\NetManagement\DAL\bin\Debug\net8.0\DAL.dll
@@ -26,3 +27,5 @@ C:\Users\vinhn\Downloads\PRN212_InternetCafe-main\PRN212_InternetCafe-main\NetMa
 C:\Users\vinhn\Downloads\PRN212_InternetCafe-main\PRN212_InternetCafe-main\NetManagement\DAL\obj\Debug\net8.0\DAL.pdb
 C:\Users\vinhn\Downloads\PRN212_InternetCafe-main\PRN212_InternetCafe-main\NetManagement\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
 C:\Users\vinhn\Downloads\PRN212_InternetCafe-main\PRN212_InternetCafe-main\NetManagement\DAL\obj\Debug\net8.0\ref\DAL.dll
+=======
+>>>>>>> 239f428882aad7dfed972506174d8ec2d52f7e91

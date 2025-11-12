@@ -3,7 +3,11 @@ using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 
+<<<<<<< HEAD
 namespace DAL.Entities;
+=======
+namespace NetManagement;
+>>>>>>> 239f428882aad7dfed972506174d8ec2d52f7e91
 
 public partial class NetManagementDbContext : DbContext
 {

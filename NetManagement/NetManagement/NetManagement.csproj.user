@@ -2,9 +2,12 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup />
   <ItemGroup>
+<<<<<<< HEAD
     <Compile Update="ComputerManagement.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+=======
+>>>>>>> 239f428882aad7dfed972506174d8ec2d52f7e91
     <Compile Update="DetailWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>

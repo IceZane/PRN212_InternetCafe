@@ -7,9 +7,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+<<<<<<< HEAD
     <ProjectReference Include="..\DAL\DAL.csproj">
       <Private>True</Private>
     </ProjectReference>
+=======
+    <Folder Include="Service\" />
+>>>>>>> 239f428882aad7dfed972506174d8ec2d52f7e91
   </ItemGroup>
 
 </Project>

@@ -4,17 +4,30 @@
 winexe
 C#
 .cs
+<<<<<<< HEAD
 C:\Users\vinhn\Downloads\PRN212_InternetCafe-main\PRN212_InternetCafe-main\NetManagement\NetManagement\obj\Debug\net8.0-windows\
+=======
+E:\C# project\New Project\NetManagement\NetManagement\obj\Debug\net8.0-windows\
+>>>>>>> 239f428882aad7dfed972506174d8ec2d52f7e91
 NetManagement
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
+<<<<<<< HEAD
 C:\Users\vinhn\Downloads\PRN212_InternetCafe-main\PRN212_InternetCafe-main\NetManagement\NetManagement\App.xaml
 4-1554404542
 
 71102650960
 236882496154
 ComputerManagement.xaml;DetailWindow.xaml;LoginWindow.xaml;MainWindow.xaml;
+=======
+E:\C# project\New Project\NetManagement\NetManagement\App.xaml
+3-1829128490
+
+699959485
+234-660048532
+DetailWindow.xaml;LoginWindow.xaml;MainWindow.xaml;
+>>>>>>> 239f428882aad7dfed972506174d8ec2d52f7e91
 
 False
 

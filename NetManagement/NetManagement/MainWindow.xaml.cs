@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 ﻿using BLL.Service;
 using DAL.Entities;
 using System.Text;
+=======
+﻿using System.Text;
+>>>>>>> 239f428882aad7dfed972506174d8ec2d52f7e91
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
@@ -22,6 +26,7 @@ namespace NetManagement
         {
             InitializeComponent();
         }
+<<<<<<< HEAD
         private MemberService _accountservice = new();
         
 
@@ -88,3 +93,7 @@ namespace NetManagement
         }
 
         
+=======
+    }
+}
+>>>>>>> 239f428882aad7dfed972506174d8ec2d52f7e91
