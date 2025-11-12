@@ -5,9 +5,9 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:NetManagement"
         mc:Ignorable="d"
-        Title="MainWindow" Height="685" Width="1265" Loaded="Window_Loaded" WindowStartupLocation="CenterScreen">
+        Title="MainWindow" Height="720" Width="1280" Loaded="Window_Loaded" WindowStartupLocation="CenterScreen">
     <Grid>
-        <DataGrid x:Name="AccountDataGrid" HorizontalAlignment="Left" Height="310" Margin="10,101,0,0" VerticalAlignment="Top" Width="906" AutoGenerateColumns="False" TabIndex="7" >
+        <DataGrid x:Name="AccountDataGrid" HorizontalAlignment="Left" Height="607" Margin="10,67,0,0" VerticalAlignment="Top" Width="1078" AutoGenerateColumns="False" TabIndex="7" >
             <DataGrid.Columns>
                 <DataGridTextColumn Header="Member Id" Width="100" Binding="{Binding MemberId}" />
                 <DataGridTextColumn Header="Account Name" Width="100" Binding="{Binding AccountName}" />
@@ -20,9 +20,11 @@
                 <DataGridTextColumn Header="Status" Width="100" Binding="{Binding Status}" />
             </DataGrid.Columns>
         </DataGrid>
-        <TextBox x:Name="SearchListAccount" HorizontalAlignment="Left" Height="50" Margin="326,24,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="298" TextAlignment="Center"/>
-        <Button x:Name="SearchAccount" Content="Search" HorizontalAlignment="Left" Height="50" Margin="34,24,0,0" VerticalAlignment="Top" Width="262" TabIndex="2" Click="SearchButton_Click" />
-        <Button x:Name="ButtonQuit" Content="Quit" HorizontalAlignment="Left" Height="50" Margin="979,335,0,0" VerticalAlignment="Top" Width="103" Click="ButtonQuit_Click"/>
+        <TextBox x:Name="SearchListAccount" HorizontalAlignment="Left" Height="25" Margin="230,24,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="593" TextAlignment="Center"/>
+        <Button x:Name="SearchAccount" Content="Search" HorizontalAlignment="Left" Height="25" Margin="34,24,0,0" VerticalAlignment="Top" Width="136" TabIndex="2" Click="SearchButton_Click" />
+        <Button x:Name="ButtonQuit" Content="Quit" HorizontalAlignment="Left" Height="50" Margin="1134,302,0,0" VerticalAlignment="Top" Width="102" Click="ButtonQuit_Click"/>
+        <Button x:Name="CreateButton" Content="Create" HorizontalAlignment="Left" Height="50" Margin="1134,80,0,0" VerticalAlignment="Top" Width="102" Click="CreateButton_Click"/>
+        <Button x:Name="UpdateButton" Content="Update" HorizontalAlignment="Left" Height="50" Margin="1134,150,0,0" VerticalAlignment="Top" Width="102" Click="UpdateButton_Click"/>
 
     </Grid>
 </Window>
