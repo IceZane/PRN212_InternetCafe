@@ -1,0 +1,369 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vinhn\\Downloads\\PRN212_InternetCafe-main\\PRN212_InternetCafe-main\\NetManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0BDB88-55B7-4619-B6AD-2390F4862C06}|NetManagement\\NetManagement.csproj|c:\\users\\vinhn\\downloads\\prn212_internetcafe-main\\prn212_internetcafe-main\\netmanagement\\netmanagement\\netmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6C0BDB88-55B7-4619-B6AD-2390F4862C06}|NetManagement\\NetManagement.csproj|solutionrelative:netmanagement\\netmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0BDB88-55B7-4619-B6AD-2390F4862C06}|NetManagement\\NetManagement.csproj|c:\\users\\vinhn\\downloads\\prn212_internetcafe-main\\prn212_internetcafe-main\\netmanagement\\netmanagement\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6C0BDB88-55B7-4619-B6AD-2390F4862C06}|NetManagement\\NetManagement.csproj|solutionrelative:netmanagement\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0BDB88-55B7-4619-B6AD-2390F4862C06}|NetManagement\\NetManagement.csproj|c:\\users\\vinhn\\downloads\\prn212_internetcafe-main\\prn212_internetcafe-main\\netmanagement\\netmanagement\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6C0BDB88-55B7-4619-B6AD-2390F4862C06}|NetManagement\\NetManagement.csproj|solutionrelative:netmanagement\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0BDB88-55B7-4619-B6AD-2390F4862C06}|NetManagement\\NetManagement.csproj|c:\\users\\vinhn\\downloads\\prn212_internetcafe-main\\prn212_internetcafe-main\\netmanagement\\netmanagement\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6C0BDB88-55B7-4619-B6AD-2390F4862C06}|NetManagement\\NetManagement.csproj|solutionrelative:netmanagement\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0BDB88-55B7-4619-B6AD-2390F4862C06}|NetManagement\\NetManagement.csproj|c:\\users\\vinhn\\downloads\\prn212_internetcafe-main\\prn212_internetcafe-main\\netmanagement\\netmanagement\\computermanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6C0BDB88-55B7-4619-B6AD-2390F4862C06}|NetManagement\\NetManagement.csproj|solutionrelative:netmanagement\\computermanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8847735-0720-4BF4-ABBD-EA3EAB1F0AAC}|BLL\\BLL.csproj|c:\\users\\vinhn\\downloads\\prn212_internetcafe-main\\prn212_internetcafe-main\\netmanagement\\bll\\service\\computerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8847735-0720-4BF4-ABBD-EA3EAB1F0AAC}|BLL\\BLL.csproj|solutionrelative:bll\\service\\computerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0BDB88-55B7-4619-B6AD-2390F4862C06}|NetManagement\\NetManagement.csproj|c:\\users\\vinhn\\downloads\\prn212_internetcafe-main\\prn212_internetcafe-main\\netmanagement\\netmanagement\\computermanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0BDB88-55B7-4619-B6AD-2390F4862C06}|NetManagement\\NetManagement.csproj|solutionrelative:netmanagement\\computermanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A82F5F-BA2B-4677-B91C-28D09BEDF874}|DAL\\DAL.csproj|c:\\users\\vinhn\\downloads\\prn212_internetcafe-main\\prn212_internetcafe-main\\netmanagement\\dal\\reposibility\\computerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60A82F5F-BA2B-4677-B91C-28D09BEDF874}|DAL\\DAL.csproj|solutionrelative:dal\\reposibility\\computerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A82F5F-BA2B-4677-B91C-28D09BEDF874}|DAL\\DAL.csproj|c:\\users\\vinhn\\downloads\\prn212_internetcafe-main\\prn212_internetcafe-main\\netmanagement\\dal\\entities\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60A82F5F-BA2B-4677-B91C-28D09BEDF874}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A82F5F-BA2B-4677-B91C-28D09BEDF874}|DAL\\DAL.csproj|c:\\users\\vinhn\\downloads\\prn212_internetcafe-main\\prn212_internetcafe-main\\netmanagement\\dal\\reposibility\\memberrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60A82F5F-BA2B-4677-B91C-28D09BEDF874}|DAL\\DAL.csproj|solutionrelative:dal\\reposibility\\memberrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A82F5F-BA2B-4677-B91C-28D09BEDF874}|DAL\\DAL.csproj|c:\\users\\vinhn\\downloads\\prn212_internetcafe-main\\prn212_internetcafe-main\\netmanagement\\dal\\reposibility\\useraccountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60A82F5F-BA2B-4677-B91C-28D09BEDF874}|DAL\\DAL.csproj|solutionrelative:dal\\reposibility\\useraccountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A82F5F-BA2B-4677-B91C-28D09BEDF874}|DAL\\DAL.csproj|c:\\users\\vinhn\\downloads\\prn212_internetcafe-main\\prn212_internetcafe-main\\netmanagement\\dal\\entities\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60A82F5F-BA2B-4677-B91C-28D09BEDF874}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0BDB88-55B7-4619-B6AD-2390F4862C06}|NetManagement\\NetManagement.csproj|c:\\users\\vinhn\\downloads\\prn212_internetcafe-main\\prn212_internetcafe-main\\netmanagement\\netmanagement\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0BDB88-55B7-4619-B6AD-2390F4862C06}|NetManagement\\NetManagement.csproj|solutionrelative:netmanagement\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8847735-0720-4BF4-ABBD-EA3EAB1F0AAC}|BLL\\BLL.csproj|c:\\users\\vinhn\\downloads\\prn212_internetcafe-main\\prn212_internetcafe-main\\netmanagement\\bll\\service\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8847735-0720-4BF4-ABBD-EA3EAB1F0AAC}|BLL\\BLL.csproj|solutionrelative:bll\\service\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A82F5F-BA2B-4677-B91C-28D09BEDF874}|DAL\\DAL.csproj|c:\\users\\vinhn\\downloads\\prn212_internetcafe-main\\prn212_internetcafe-main\\netmanagement\\dal\\netmanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60A82F5F-BA2B-4677-B91C-28D09BEDF874}|DAL\\DAL.csproj|solutionrelative:dal\\netmanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0BDB88-55B7-4619-B6AD-2390F4862C06}|NetManagement\\NetManagement.csproj|c:\\users\\vinhn\\downloads\\prn212_internetcafe-main\\prn212_internetcafe-main\\netmanagement\\netmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6C0BDB88-55B7-4619-B6AD-2390F4862C06}|NetManagement\\NetManagement.csproj|solutionrelative:netmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8847735-0720-4BF4-ABBD-EA3EAB1F0AAC}|BLL\\BLL.csproj|c:\\users\\vinhn\\downloads\\prn212_internetcafe-main\\prn212_internetcafe-main\\netmanagement\\bll\\service\\useraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8847735-0720-4BF4-ABBD-EA3EAB1F0AAC}|BLL\\BLL.csproj|solutionrelative:bll\\service\\useraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A82F5F-BA2B-4677-B91C-28D09BEDF874}|DAL\\DAL.csproj|c:\\users\\vinhn\\downloads\\prn212_internetcafe-main\\prn212_internetcafe-main\\netmanagement\\dal\\entities\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60A82F5F-BA2B-4677-B91C-28D09BEDF874}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A82F5F-BA2B-4677-B91C-28D09BEDF874}|DAL\\DAL.csproj|c:\\users\\vinhn\\downloads\\prn212_internetcafe-main\\prn212_internetcafe-main\\netmanagement\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{60A82F5F-BA2B-4677-B91C-28D09BEDF874}|DAL\\DAL.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\C# project\\New Project\\NetManagement\\NetManagement\\NetManagementDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8847735-0720-4BF4-ABBD-EA3EAB1F0AAC}|BLL\\BLL.csproj|c:\\users\\vinhn\\downloads\\prn212_internetcafe-main\\prn212_internetcafe-main\\netmanagement\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8847735-0720-4BF4-ABBD-EA3EAB1F0AAC}|BLL\\BLL.csproj|solutionrelative:bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\vinhn\\Downloads\\PRN212_InternetCafe-main\\PRN212_InternetCafe-main\\NetManagement\\DAL\\Entities\\Member.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\Member.cs",
+              "ToolTip": "C:\\Users\\vinhn\\Downloads\\PRN212_InternetCafe-main\\PRN212_InternetCafe-main\\NetManagement\\DAL\\Entities\\Member.cs",
+              "RelativeToolTip": "DAL\\Entities\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T08:05:50.391Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\vinhn\\Downloads\\PRN212_InternetCafe-main\\PRN212_InternetCafe-main\\NetManagement\\NetManagement\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "NetManagement\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\vinhn\\Downloads\\PRN212_InternetCafe-main\\PRN212_InternetCafe-main\\NetManagement\\NetManagement\\LoginWindow.xaml",
+              "RelativeToolTip": "NetManagement\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-12T11:34:02.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Computer.cs",
+              "DocumentMoniker": "C:\\Users\\vinhn\\Downloads\\PRN212_InternetCafe-main\\PRN212_InternetCafe-main\\NetManagement\\DAL\\Entities\\Computer.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\Computer.cs",
+              "ToolTip": "C:\\Users\\vinhn\\Downloads\\PRN212_InternetCafe-main\\PRN212_InternetCafe-main\\NetManagement\\DAL\\Entities\\Computer.cs",
+              "RelativeToolTip": "DAL\\Entities\\Computer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T10:03:04.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ComputerManagement.xaml",
+              "DocumentMoniker": "C:\\Users\\vinhn\\Downloads\\PRN212_InternetCafe-main\\PRN212_InternetCafe-main\\NetManagement\\NetManagement\\ComputerManagement.xaml",
+              "RelativeDocumentMoniker": "NetManagement\\ComputerManagement.xaml",
+              "ToolTip": "C:\\Users\\vinhn\\Downloads\\PRN212_InternetCafe-main\\PRN212_InternetCafe-main\\NetManagement\\NetManagement\\ComputerManagement.xaml",
+              "RelativeToolTip": "NetManagement\\ComputerManagement.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-12T09:33:46.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\vinhn\\Downloads\\PRN212_InternetCafe-main\\PRN212_InternetCafe-main\\NetManagement\\NetManagement\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "NetManagement\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\vinhn\\Downloads\\PRN212_InternetCafe-main\\PRN212_InternetCafe-main\\NetManagement\\NetManagement\\MainWindow.xaml",
+              "RelativeToolTip": "NetManagement\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-12T02:05:24.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NetManagement.csproj",
+              "DocumentMoniker": "C:\\Users\\vinhn\\Downloads\\PRN212_InternetCafe-main\\PRN212_InternetCafe-main\\NetManagement\\NetManagement\\NetManagement.csproj",
+              "RelativeDocumentMoniker": "NetManagement\\NetManagement.csproj",
+              "ToolTip": "C:\\Users\\vinhn\\Downloads\\PRN212_InternetCafe-main\\PRN212_InternetCafe-main\\NetManagement\\NetManagement\\NetManagement.csproj",
+              "RelativeToolTip": "NetManagement\\NetManagement.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-12T02:12:25.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ComputerManagement.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vinhn\\Downloads\\PRN212_InternetCafe-main\\PRN212_InternetCafe-main\\NetManagement\\NetManagement\\ComputerManagement.xaml.cs",
+              "RelativeDocumentMoniker": "NetManagement\\ComputerManagement.xaml.cs",
+              "ToolTip": "C:\\Users\\vinhn\\Downloads\\PRN212_InternetCafe-main\\PRN212_InternetCafe-main\\NetManagement\\NetManagement\\ComputerManagement.xaml.cs",
+              "RelativeToolTip": "NetManagement\\ComputerManagement.xaml.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAEwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T09:57:16.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ComputerService.cs",
+              "DocumentMoniker": "C:\\Users\\vinhn\\Downloads\\PRN212_InternetCafe-main\\PRN212_InternetCafe-main\\NetManagement\\BLL\\Service\\ComputerService.cs",
+              "RelativeDocumentMoniker": "BLL\\Service\\ComputerService.cs",
+              "ToolTip": "C:\\Users\\vinhn\\Downloads\\PRN212_InternetCafe-main\\PRN212_InternetCafe-main\\NetManagement\\BLL\\Service\\ComputerService.cs",
+              "RelativeToolTip": "BLL\\Service\\ComputerService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T10:01:23.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\vinhn\\Downloads\\PRN212_InternetCafe-main\\PRN212_InternetCafe-main\\NetManagement\\NetManagement\\App.xaml",
+              "RelativeDocumentMoniker": "NetManagement\\App.xaml",
+              "ToolTip": "C:\\Users\\vinhn\\Downloads\\PRN212_InternetCafe-main\\PRN212_InternetCafe-main\\NetManagement\\NetManagement\\App.xaml",
+              "RelativeToolTip": "NetManagement\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-12T08:37:48.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ComputerRepo.cs",
+              "DocumentMoniker": "C:\\Users\\vinhn\\Downloads\\PRN212_InternetCafe-main\\PRN212_InternetCafe-main\\NetManagement\\DAL\\Reposibility\\ComputerRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Reposibility\\ComputerRepo.cs",
+              "ToolTip": "C:\\Users\\vinhn\\Downloads\\PRN212_InternetCafe-main\\PRN212_InternetCafe-main\\NetManagement\\DAL\\Reposibility\\ComputerRepo.cs",
+              "RelativeToolTip": "DAL\\Reposibility\\ComputerRepo.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T08:50:30.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MemberRepo.cs",
+              "DocumentMoniker": "C:\\Users\\vinhn\\Downloads\\PRN212_InternetCafe-main\\PRN212_InternetCafe-main\\NetManagement\\DAL\\Reposibility\\MemberRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Reposibility\\MemberRepo.cs",
+              "ToolTip": "C:\\Users\\vinhn\\Downloads\\PRN212_InternetCafe-main\\PRN212_InternetCafe-main\\NetManagement\\DAL\\Reposibility\\MemberRepo.cs",
+              "RelativeToolTip": "DAL\\Reposibility\\MemberRepo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T08:16:27.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserAccountRepo.cs",
+              "DocumentMoniker": "C:\\Users\\vinhn\\Downloads\\PRN212_InternetCafe-main\\PRN212_InternetCafe-main\\NetManagement\\DAL\\Reposibility\\UserAccountRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Reposibility\\UserAccountRepo.cs",
+              "ToolTip": "C:\\Users\\vinhn\\Downloads\\PRN212_InternetCafe-main\\PRN212_InternetCafe-main\\NetManagement\\DAL\\Reposibility\\UserAccountRepo.cs",
+              "RelativeToolTip": "DAL\\Reposibility\\UserAccountRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T08:53:01.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vinhn\\Downloads\\PRN212_InternetCafe-main\\PRN212_InternetCafe-main\\NetManagement\\NetManagement\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "NetManagement\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\vinhn\\Downloads\\PRN212_InternetCafe-main\\PRN212_InternetCafe-main\\NetManagement\\NetManagement\\MainWindow.xaml.cs",
+              "RelativeToolTip": "NetManagement\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAqwB8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T02:05:21.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MemberService.cs",
+              "DocumentMoniker": "C:\\Users\\vinhn\\Downloads\\PRN212_InternetCafe-main\\PRN212_InternetCafe-main\\NetManagement\\BLL\\Service\\MemberService.cs",
+              "RelativeDocumentMoniker": "BLL\\Service\\MemberService.cs",
+              "ToolTip": "C:\\Users\\vinhn\\Downloads\\PRN212_InternetCafe-main\\PRN212_InternetCafe-main\\NetManagement\\BLL\\Service\\MemberService.cs",
+              "RelativeToolTip": "BLL\\Service\\MemberService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAEwA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T08:20:13.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NetManagementDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\vinhn\\Downloads\\PRN212_InternetCafe-main\\PRN212_InternetCafe-main\\NetManagement\\DAL\\NetManagementDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\NetManagementDbContext.cs",
+              "ToolTip": "C:\\Users\\vinhn\\Downloads\\PRN212_InternetCafe-main\\PRN212_InternetCafe-main\\NetManagement\\DAL\\NetManagementDbContext.cs",
+              "RelativeToolTip": "DAL\\NetManagementDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T02:18:17.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vinhn\\Downloads\\PRN212_InternetCafe-main\\PRN212_InternetCafe-main\\NetManagement\\NetManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "NetManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\vinhn\\Downloads\\PRN212_InternetCafe-main\\PRN212_InternetCafe-main\\NetManagement\\NetManagement\\appsettings.json",
+              "RelativeToolTip": "NetManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-12T02:19:02.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\vinhn\\Downloads\\PRN212_InternetCafe-main\\PRN212_InternetCafe-main\\NetManagement\\BLL\\Service\\UserAccountService.cs",
+              "RelativeDocumentMoniker": "BLL\\Service\\UserAccountService.cs",
+              "ToolTip": "C:\\Users\\vinhn\\Downloads\\PRN212_InternetCafe-main\\PRN212_InternetCafe-main\\NetManagement\\BLL\\Service\\UserAccountService.cs",
+              "RelativeToolTip": "BLL\\Service\\UserAccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T08:56:01.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserAccount.cs",
+              "DocumentMoniker": "C:\\Users\\vinhn\\Downloads\\PRN212_InternetCafe-main\\PRN212_InternetCafe-main\\NetManagement\\DAL\\Entities\\UserAccount.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\UserAccount.cs",
+              "ToolTip": "C:\\Users\\vinhn\\Downloads\\PRN212_InternetCafe-main\\PRN212_InternetCafe-main\\NetManagement\\DAL\\Entities\\UserAccount.cs",
+              "RelativeToolTip": "DAL\\Entities\\UserAccount.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T08:16:21.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DAL.csproj",
+              "DocumentMoniker": "C:\\Users\\vinhn\\Downloads\\PRN212_InternetCafe-main\\PRN212_InternetCafe-main\\NetManagement\\DAL\\DAL.csproj",
+              "RelativeDocumentMoniker": "DAL\\DAL.csproj",
+              "ToolTip": "C:\\Users\\vinhn\\Downloads\\PRN212_InternetCafe-main\\PRN212_InternetCafe-main\\NetManagement\\DAL\\DAL.csproj",
+              "RelativeToolTip": "DAL\\DAL.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-12T02:17:40.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NetManagementDbContext.cs",
+              "DocumentMoniker": "E:\\C# project\\New Project\\NetManagement\\NetManagement\\NetManagementDbContext.cs",
+              "ToolTip": "E:\\C# project\\New Project\\NetManagement\\NetManagement\\NetManagementDbContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T02:17:34.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\vinhn\\Downloads\\PRN212_InternetCafe-main\\PRN212_InternetCafe-main\\NetManagement\\BLL\\Class1.cs",
+              "RelativeDocumentMoniker": "BLL\\Class1.cs",
+              "ToolTip": "C:\\Users\\vinhn\\Downloads\\PRN212_InternetCafe-main\\PRN212_InternetCafe-main\\NetManagement\\BLL\\Class1.cs",
+              "RelativeToolTip": "BLL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T02:11:54.459Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
