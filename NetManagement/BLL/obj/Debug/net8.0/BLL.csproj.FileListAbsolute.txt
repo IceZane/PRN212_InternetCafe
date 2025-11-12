@@ -1,0 +1,11 @@
+E:\C# project\New Project\NetManagement\BLL\bin\Debug\net8.0\BLL.deps.json
+E:\C# project\New Project\NetManagement\BLL\bin\Debug\net8.0\BLL.dll
+E:\C# project\New Project\NetManagement\BLL\bin\Debug\net8.0\BLL.pdb
+E:\C# project\New Project\NetManagement\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# project\New Project\NetManagement\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+E:\C# project\New Project\NetManagement\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+E:\C# project\New Project\NetManagement\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+E:\C# project\New Project\NetManagement\BLL\obj\Debug\net8.0\BLL.dll
+E:\C# project\New Project\NetManagement\BLL\obj\Debug\net8.0\refint\BLL.dll
+E:\C# project\New Project\NetManagement\BLL\obj\Debug\net8.0\BLL.pdb
+E:\C# project\New Project\NetManagement\BLL\obj\Debug\net8.0\ref\BLL.dll
