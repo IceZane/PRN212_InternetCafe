@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:NetManagement"
         mc:Ignorable="d"
-        Title="MainWindow" Height="685" Width="1265" Loaded="Window_Loaded" WindowStartupLocation="CenterScreen">
+        Title="MainWindow" Height="685" Width="1150" Loaded="Window_Loaded" WindowStartupLocation="CenterScreen">
     <Grid>
         <DataGrid x:Name="AccountDataGrid" HorizontalAlignment="Left" Height="310" Margin="10,101,0,0" VerticalAlignment="Top" Width="906" AutoGenerateColumns="False" TabIndex="7" >
             <DataGrid.Columns>
@@ -25,6 +25,8 @@
         <Button x:Name="ButtonQuit" Content="Quit" HorizontalAlignment="Left" Height="50" Margin="979,335,0,0" VerticalAlignment="Top" Width="103" Click="ButtonQuit_Click"/>
         <Button x:Name="DeleteButton" Content="Delete" HorizontalAlignment="Left" Height="50" Margin="980,254,0,0" VerticalAlignment="Top" Width="103" Click="DeleteButton_Click"/>
         <Button x:Name="LogoutButton" Content="Logout" HorizontalAlignment="Left" Height="50" Margin="980,173,0,0" VerticalAlignment="Top" Width="103" Click="LogoutButton_Click"/>
+        <Button x:Name="CreateButton" Content="Create" HorizontalAlignment="Left" Height="50" Margin="981,24,0,0" VerticalAlignment="Top" Width="102" Click="CreateButton_Click"/>
+        <Button x:Name="UpdateButton" Content="Update" HorizontalAlignment="Left" Height="50" Margin="981,100,0,0" VerticalAlignment="Top" Width="102" Click="UpdateButton_Click"/>
                  
        
     </Grid>

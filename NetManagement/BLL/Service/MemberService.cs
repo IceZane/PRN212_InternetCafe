@@ -32,6 +32,13 @@ namespace BLL.Service
         {
             return _accountrepo.Search(keyword);
         }
-
+        public List<Member> Create(Member member)
+        {
+            return _accountrepo.Create(member);
+        }
+        public List<Member> Update(Member member)
+        {
+            return _accountrepo.Update(member);
+        }
     }
 }

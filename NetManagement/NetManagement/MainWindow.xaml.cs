@@ -129,6 +129,34 @@ namespace NetManagement
             loginWindow.Show();
             this.Close();
         }
+        private void CreateButton_Click(object sender, RoutedEventArgs e)
+        {
+            DetailWindow detailWindow = new DetailWindow();
+            detailWindow.ShowDialog();
+        }
+
+        private void UpdateButton_Click(object sender, RoutedEventArgs e)
+        {
+            // Lấy dòng được chọn từ DataGrid
+            var selectedMember = AccountDataGrid.SelectedItem as Member;
+
+            if (selectedMember == null)
+            {
+                MessageBox.Show("Vui lòng chọn một tài khoản để cập nhật.", "Thông báo", MessageBoxButton.OK, MessageBoxImage.Warning);
+                return;
+            }
+
+            // Mở DetailWindow với dữ liệu đã chọn
+            DetailWindow detailWindow = new DetailWindow(selectedMember);
+            bool? result = detailWindow.ShowDialog();
+
+            if (result == true)
+            {
+                // Sau khi cập nhật, làm mới lại danh sách
+                FillDataGrid(_accountservice.GetAllAccount());
+                MessageBox.Show("Cập nhật thành công!", "Thông báo", MessageBoxButton.OK, MessageBoxImage.Information);
+            }
+        }
     }
 
         }
