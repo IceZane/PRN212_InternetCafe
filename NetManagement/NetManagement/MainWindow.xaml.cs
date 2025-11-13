@@ -131,8 +131,13 @@ namespace NetManagement
         }
         private void CreateButton_Click(object sender, RoutedEventArgs e)
         {
-            DetailWindow detailWindow = new DetailWindow();
-            detailWindow.ShowDialog();
+            DetailWindow detailWindow = new DetailWindow(null, _accountservice);
+            bool? result = detailWindow.ShowDialog();
+
+            if (result == true)
+            {
+                FillDataGrid(_accountservice.GetAllAccount());
+            }
         }
 
         private void UpdateButton_Click(object sender, RoutedEventArgs e)
@@ -147,14 +152,13 @@ namespace NetManagement
             }
 
             // Mở DetailWindow với dữ liệu đã chọn
-            DetailWindow detailWindow = new DetailWindow(selectedMember);
+            DetailWindow detailWindow = new DetailWindow(selectedMember, _accountservice); 
             bool? result = detailWindow.ShowDialog();
 
             if (result == true)
             {
                 // Sau khi cập nhật, làm mới lại danh sách
                 FillDataGrid(_accountservice.GetAllAccount());
-                MessageBox.Show("Cập nhật thành công!", "Thông báo", MessageBoxButton.OK, MessageBoxImage.Information);
             }
         }
     }

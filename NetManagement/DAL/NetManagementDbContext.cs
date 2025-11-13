@@ -68,7 +68,7 @@ public partial class NetManagementDbContext : DbContext
             entity.ToTable("Member");
 
             entity.Property(e => e.MemberId)
-                .ValueGeneratedNever()
+                .ValueGeneratedOnAdd() // ✅ Cho phép SQL Server tự sinh giá trị
                 .HasColumnName("MemberID");
             entity.Property(e => e.AccountName).HasMaxLength(50);
             entity.Property(e => e.CitizenId)

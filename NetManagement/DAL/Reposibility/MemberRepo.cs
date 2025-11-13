@@ -53,5 +53,42 @@ namespace DAL.Reposibility
                 throw new Exception("Database error while deleting. See inner exception.", ex);
             }
         }
+        public List<Member> Create(Member member)
+        {
+            _account = new();
+
+            // Nếu MemberId là 0, EF sẽ tự động bỏ qua và để SQL Server sinh
+            if (member.MemberId != 0)
+            {
+                throw new InvalidOperationException("Do not assign MemberId manually. It is auto-generated.");
+            }
+
+            member.DateCreated ??= DateTime.Now;
+            member.Status ??= "Active";
+
+            _account.Members.Add(member);
+            _account.SaveChanges();
+
+            return _account.Members.ToList();
+        }
+        public List<Member> Update(Member member)
+        {
+            _account = new();
+            var existingMember = _account.Members.Find(member.MemberId);
+            if (existingMember != null)
+            {
+                existingMember.AccountName = member.AccountName;
+                existingMember.Password = member.Password;
+                existingMember.FullName = member.FullName;
+                existingMember.Phone = member.Phone;
+                existingMember.CitizenId = member.CitizenId;
+                existingMember.Money = member.Money;
+                existingMember.DateCreated = member.DateCreated;
+                existingMember.Status = member.Status;
+                _account.SaveChanges();
+            }
+            return _account.Members.ToList();
+        }
     }
 }
+
