@@ -12,6 +12,10 @@ namespace BLL.Service
     {
         private ComputerRepo _computerrepo = new();
 
+        public void DeleteComputer(Computer obj)
+        {
+            _computerrepo.Delete(obj);
+        }
         public List<Computer> GetAllComputer()
         {
             return _computerrepo.GetAllComputer();

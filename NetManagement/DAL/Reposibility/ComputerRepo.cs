@@ -1,4 +1,5 @@
 ﻿using DAL.Entities;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -15,6 +16,12 @@ namespace DAL.Reposibility
         {
             _computer = new();
             return _computer.Computers.ToList();
+        }
+        public void Delete(Computer obj)
+        {
+            _computer = new();  
+            _computer.Computers.Remove(obj); 
+            _computer.SaveChanges(); 
         }
 
         public List<string> GetDistinctStatuses()

@@ -1,5 +1,6 @@
 ﻿using BLL.Service;
 using DAL.Entities;
+using DAL.Reposibility;
 using System.Text;
 using System.Windows;
 using System.Windows.Controls;
@@ -26,21 +27,43 @@ namespace NetManagement
         
 
         private void Window_Loaded(object sender, RoutedEventArgs e)
+
                 {
+
                     FillDataGrid(_accountservice.GetAllAccount());
+
                 }
+
+        
+
                 private void FillDataGrid(List<Member> bag)
+
                 {
+
                     AccountDataGrid.ItemsSource = null;
+
                     AccountDataGrid.ItemsSource = bag;
+
+
                 }
+
+
+               
+
+
+
         private void SearchButton_Click(object sender, RoutedEventArgs e)
+
                 {
+
                     var keyword = SearchListAccount.Text;
 
                     if (string.IsNullOrEmpty(keyword))
+
                     {
+
                         FillDataGrid(_accountservice.GetAllAccount());
+
                     }
 
                     else
@@ -62,35 +85,52 @@ namespace NetManagement
             }
         }
 
-        private void CreateButton_Click(object sender, RoutedEventArgs e)
+        private void DeleteButton_Click(object sender, RoutedEventArgs e)
         {
-            DetailWindow detailWindow = new DetailWindow();
-            detailWindow.ShowDialog();
-        }
+            // 1. Lấy đúng đối tượng 'Member' từ DataGrid
+            Member? selected = AccountDataGrid.SelectedItem as Member;
 
-        private void UpdateButton_Click(object sender, RoutedEventArgs e)
-        {
-            // Lấy dòng được chọn từ DataGrid
-            var selectedMember = AccountDataGrid.SelectedItem as Member;
-
-            if (selectedMember == null)
+            if (selected == null)
             {
-                MessageBox.Show("Vui lòng chọn một tài khoản để cập nhật.", "Thông báo", MessageBoxButton.OK, MessageBoxImage.Warning);
+                // 2. Sửa lại thông báo lỗi
+                MessageBox.Show("Please select a member before deleting", "Select one", MessageBoxButton.OK, MessageBoxImage.Stop);
                 return;
             }
 
-            // Mở DetailWindow với dữ liệu đã chọn
-            DetailWindow detailWindow = new DetailWindow(selectedMember);
-            bool? result = detailWindow.ShowDialog();
+            // 3. Sửa lại nội dung hộp thoại xác nhận
+            MessageBoxResult answer = MessageBox.Show("Do you really want to delete this member?", "Confirm?", MessageBoxButton.YesNo, MessageBoxImage.Question);
+            if (answer == MessageBoxResult.No)
+                return;
 
-            if (result == true)
+            try
             {
-                // Sau khi cập nhật, làm mới lại danh sách
+                // 4. Gọi service 'DeleteMember' (chúng ta sẽ sửa hàm này ở bước 2)
+                _accountservice.DeleteMember(selected);
+
+                // 5. Refresh lại grid bằng danh sách Member
+                MessageBox.Show("Delete successful!", "Success", MessageBoxButton.OK, MessageBoxImage.Information);
                 FillDataGrid(_accountservice.GetAllAccount());
-                MessageBox.Show("Cập nhật thành công!", "Thông báo", MessageBoxButton.OK, MessageBoxImage.Information);
+            }
+            catch (InvalidOperationException ex)
+            {
+                // Bắt lỗi nếu thành viên đang sử dụng máy (sẽ làm ở bước 3)
+                MessageBox.Show(ex.Message, "Deletion Error", MessageBoxButton.OK, MessageBoxImage.Error);
+            }
+            catch (Exception ex)
+            {
+                // Bắt các lỗi chung khác (ví dụ: lỗi database)
+                MessageBox.Show($"An error occurred while deleting: {ex.Message}", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
             }
         }
+
+        private void LogoutButton_Click(object sender, RoutedEventArgs e)
+        {
+            LoginWindow loginWindow = new LoginWindow();
+            loginWindow.Show();
+            this.Close();
+        }
     }
-}
+
+        }
 
         

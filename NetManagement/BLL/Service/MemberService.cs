@@ -12,22 +12,26 @@ namespace BLL.Service
     {
         private MemberRepo _accountrepo = new();
 
+        public void DeleteMember(Member member)
+        {
+            
+            _accountrepo.Delete(member);
+        }
+
         public List<Member> GetAllAccount()
         {
             return _accountrepo.GetAllAccount();
+        }
+
+        public List<Member> GetAllComputer()
+        {
+            throw new NotImplementedException();
         }
 
         public List<Member> Search(string keyword)
         {
             return _accountrepo.Search(keyword);
         }
-        public List<Member> Create(Member member)
-        {
-            return _accountrepo.Create(member);
-        }
-        public List<Member> Update(Member member)
-        {
-            return _accountrepo.Update(member);
-        }
+
     }
 }
